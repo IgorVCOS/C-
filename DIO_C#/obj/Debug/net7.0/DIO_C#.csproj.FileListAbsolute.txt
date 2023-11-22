@@ -1,0 +1,14 @@
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\bin\Debug\net7.0\DIO_C#.exe
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\bin\Debug\net7.0\DIO_C#.deps.json
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\bin\Debug\net7.0\DIO_C#.runtimeconfig.json
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\bin\Debug\net7.0\DIO_C#.dll
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\bin\Debug\net7.0\DIO_C#.pdb
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\obj\Debug\net7.0\DIO_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\obj\Debug\net7.0\DIO_C#.AssemblyInfoInputs.cache
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\obj\Debug\net7.0\DIO_C#.AssemblyInfo.cs
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\obj\Debug\net7.0\DIO_C#.csproj.CoreCompileInputs.cache
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\obj\Debug\net7.0\DIO_C#.dll
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\obj\Debug\net7.0\refint\DIO_C#.dll
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\obj\Debug\net7.0\DIO_C#.pdb
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\obj\Debug\net7.0\DIO_C#.genruntimeconfig.cache
+C:\Users\igorv\OneDrive\Desktop\prog\c#\DIO_C#\obj\Debug\net7.0\ref\DIO_C#.dll
